@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Temas concretos e importantes en NODE",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon --quiet ./app.js"
   },
