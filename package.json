@@ -10,6 +10,8 @@
   "author": "Angel Velasco",
   "license": "ISC",
   "devDependencies": {
+    "cookie-parser": "1.4.6",
+    "nanoid": "4.0.2",
     "nodemon": "3.0.1"
   },
   "dependencies": {
